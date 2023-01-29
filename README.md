@@ -1,9 +1,6 @@
-## Your Website Goes Here!
+## Project Proposal COMS BC3997
 
-This repository will house your personal website for this course.
+This semester, I’ll be working with Sounding Board, a start up that offers scalable coaching services to corporate clients. In addition to matching leadership coaches to coachees, the company operates a leader development platform that allows coachees to focus on specific leadership capabilities (e.g. execution, time management, executive presence), set goals, track their progress, and report progress/results to their managers.
 
-If you are reading this, the name of the repository should be ```people-<Your GithubID>```. If that's what you see, you should already be logged into your Github account and have your own repository (this one). You're good to get started modifying this repository to make your own website!
+The results of Sounding Board’s recent research—coupled with the desires of internal stakeholders—have led the UX team to turn its focus to the manager’s journey. A coachee’s manager helps define their coaching experience; managers choose which leadership skills/capabilities a coachee should focus on, engage with the coachee throughout their journey, and assess improvements in coachees’ skills afterwards. Given the importance of their role in the coaching process, Sounding Board aims to create an intuitive, efficient, and meaningful experience for managers. Under the guidance of Sounding Board’s UX researcher, Juan Cespedes, I will be focusing on conducting UX research in order to improve the manager’s experience.
 
-If you don't see your Github ID at the end of the repository name, you need to follow [this link to Github Classroom](https://classroom.github.com/a/AiQxMQc4) to create your own private repository.
-
-If you don't know what any of this means, come to office hours or send us a message on [Piazza](https://piazza.com/barnard/spring2023/comsbc3997)! We're here to help!
