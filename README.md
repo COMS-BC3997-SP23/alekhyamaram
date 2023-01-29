@@ -1,6 +1,56 @@
-## Project Proposal COMS BC3997
+# Jekyll Origin Premium Theme
 
-This semester, I’ll be working with Sounding Board, a start up that offers scalable coaching services to corporate clients. In addition to matching leadership coaches to coachees, the company operates a leader development platform that allows coachees to focus on specific leadership capabilities (e.g. execution, time management, executive presence), set goals, track their progress, and report progress/results to their managers.
+Jekyll Origin is a fully featured blog theme.
 
-The results of Sounding Board’s recent research—coupled with the desires of internal stakeholders—have led the UX team to turn its focus to the manager’s journey. A coachee’s manager helps define their coaching experience; managers choose which leadership skills/capabilities a coachee should focus on, engage with the coachee throughout their journey, and assess improvements in coachees’ skills afterwards. Given the importance of their role in the coaching process, Sounding Board aims to create an intuitive, efficient, and meaningful experience for managers. Under the guidance of Sounding Board’s UX researcher, Juan Cespedes, I will be focusing on conducting UX research in order to improve the manager’s experience.
+### Documentation
 
+[Live Docs](https://www.zerostatic.io/docs/jekyll-origin)
+
+### Demo
+
+[Live Demo](https://jekyll-origin.netlify.app/)
+
+### Screenshot
+
+![Jekyll Origin Theme screenshot](https://www.zerostatic.io/theme/jekyll-origin/jekyll-origin-screenshot.png)
+
+## Install
+
+### Install Jekll
+
+Make sure you have Ruby & Jekyll installed - For a step-by-step guide, read Jekyll docs [installation](https://jekyllrb.com/docs/installation/)
+
+### Install Theme
+
+Extract the theme .zip file to your local computer. Navigate to the project root (it contains the README.md)
+
+Run `bundle install` to install gems.
+
+Then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+
+To build the Jekyll site run `bundle exec jekyll build`
+
+## Deploy
+
+### Netlify
+
+This theme is pre-configured to deploy with [Netlify](https://docs.netlify.com/site-deploys/create-deploys/).
+
+> 💡 If you experience bundle install issues during the Netlify deployment, deleting the Gemfile.lock can sometimes help
+
+### GitHub Pages
+
+This theme works with GitHub Pages. If you are creating a GitHub Pages "Project site" then your site will be in a sub-folder ie `http://username.github.io/repository` You will need to update the `baseurl` in the `_config.yml` for the asset paths to work correctly.
+
+```yaml
+# _config.yml
+baseurl: "/my-repo-name" # This should be the name of your repo
+```
+
+## Credits
+
+This theme uses open-source libraries and assets.
+
+- **Bootstrap 5** https://unsplash.com/license
+- **Font Awesome 6 Free:** https://fontawesome.com/
+- **Unsplash Images** https://unsplash.com/
