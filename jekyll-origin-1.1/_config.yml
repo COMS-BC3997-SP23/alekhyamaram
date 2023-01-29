@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
-url: ""
+baseurl: "/alekhyamaram"
+url: "github.com/COMS-BC3997-SP23/alekhyamaram"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
