@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Update #1"
-date: 2023-01-30T09:49:03Z
+date: 2023-02-06T09:49:03Z
 authors: ["Alekhya Maram"]
 categories: ["Design", "Personas"]
 description: "In this post I talk about settling into my role at Sounding Board, as well as my research on the role of personas in the design process."
@@ -14,6 +14,8 @@ image: "/assets/images/gen/blog/blog-17.webp"
 I spent most of this week getting acquainted with the Sounding Board ecosystem—I filled in the last details of my project proposal, read through lots of project documents, and met with the Sounding Board design team! 
 
 ## Readings
+
+Next week, I’ll be developing a set of persona cards for the manager project, so I decided to center my weekly readings around persona design. 
 
 *What are personas?*
 
@@ -35,5 +37,5 @@ Salminen, J., Wenyun Guan, K., Jung, S.-G., & Jansen, B. (2022). Use Cases for D
 
 What are Personas? (n.d.). The Interaction Design Foundation. Retrieved February 5, 2023, from https://www.interaction-design.org/literature/topics/personas 
 
-What Are User Personas and Why Are They Important? | Adobe XD Ideas. (n.d.). Ideas. Retrieved February 5, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
+What Are User Personas and Why Are They Important? Adobe XD Ideas. (n.d.). Ideas. Retrieved February 5, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
 
