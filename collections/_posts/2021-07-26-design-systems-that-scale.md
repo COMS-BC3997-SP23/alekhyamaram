@@ -8,57 +8,30 @@ description: Design systems are an important part of modern web development. Lea
 thumbnail: "/assets/images/gen/blog/blog-16-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-16.webp"
 ---
+## Project Update
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+I spent most of this week getting acquainted with the Sounding Board ecosystem—I filled in the last details of my project proposal, read through lots of project documents, and met with the Sounding Board design team! 
 
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
+## Readings
 
-## History
+*What are personas?*
 
-John Gruber created the [Markdown](#) language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+Personas are fictional people created to conceptually represent a company/product’s various user segments. They often incorporate demographic information, goals and motivations, frustrations, and typical user behaviors (Miaskiewicz & Kozar, 2011). Persona creation is informed by data collected through semi-structured interviews and surveys, allowing designers to better conceptualize and empathize with archetypal users (Miaskiewicz & Kozar, 2011; “What Are User Personas and Why Are They Important?,” n.d.). For example, someone designing a meal planning and tracking app might see that young professionals living in urban areas make up a significant portion of their user base, while suburban mothers constitute another. One would imagine that these two groups--or “user segments”—might use a meal planning app very differently. In a situation like this, creating personas might help the designer imagine various potential use cases for their product.
 
-> "Markdown is a lightweight markup language with plain-text-formatting syntax"
+*What are personas used for?*
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+Miaskiewicz and Kozar used the Delphi methodology to determine the ways in which employing personas creates value. They found that personas are most useful in (a) preventing self-referential design (designing a product for oneself, rather than for a user), and (b) narrowing the scope of a project by pinpointing particular problems to tackle and user segments to target (2011). Personas are also important tools in communicating UX issues/goals to stakeholders, as they easily allow for the creation of a narrative around a UX problem (Salminen et al., 2022).
+ 
+In their systematic literature review of persona use in user-centered design, Salminen et al. found that personas are employed in all stages of the design process—from the exploratory phase in which designers are attempting to gain a foundational understanding of their users, to the prototyping phase in which they are tinkering with specific ideas (2022). Personas are almost always used in tandem with other design methods, such as user need scenarios, semi-structured interviews, and affinity/empathy maps  (Salminen et al., 2022).
 
-## Markdown Flavours
+Juan and I are hoping that the creation of these persona cards will not only help us make headway on the manager project, but also help us better communicate the UX team’s vision to internal stakeholders. 
 
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
+## Sources
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+Miaskiewicz, T., & Kozar, K. A. (2011). Personas and user-centered design: How can personas benefit product design processes? Design Studies, 32(5), 417–430. https://doi.org/10.1016/j.destud.2011.03.003
 
-### GitHub Flavored Markdown (GFM)
+Salminen, J., Wenyun Guan, K., Jung, S.-G., & Jansen, B. (2022). Use Cases for Design Personas: A Systematic Review and New Frontiers. Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, 1–21. https://doi.org/10.1145/3491102.3517589
 
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
+What are Personas? (n.d.). The Interaction Design Foundation. Retrieved February 5, 2023, from https://www.interaction-design.org/literature/topics/personas 
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-2.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
-
-### Markdown Extra
-
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), [Python](#) and [Ruby](#). It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
-
-### MDX
-
-At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:
-
-```js
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop();
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:
-
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- fenced code blocks that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+What Are User Personas and Why Are They Important? | Adobe XD Ideas. (n.d.). Ideas. Retrieved February 5, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
