@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Hello I'm <a href='/contact'>Alekhya</a>, and I'm experimenting with GitHub!</strong>."
+title: "Hello I'm <a href='/contact'>Alekhya</a>, and I'm experimenting with GitHub!</strong>"
 description: "I'm a sophomore at Barnard College studying Human Computer Interaction 🔨✨"
 image: "/assets/images/homepage.png"
 
