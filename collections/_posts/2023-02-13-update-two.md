@@ -5,7 +5,7 @@ date: 2023-01-31
 authors: ["Alekhya Maram"]
 categories: ["Design", "Contextual Inquiry"]
 description: "In this post I talk about creating some proto-personas for my project and preparing for our upcoming contextual inquiry interviews."
-thumbnail: "/assets/images/gen/blog/blog-17-thumbnail.webp"
+thumbnail: "assets/images/gen/blog/update2.jpg"
 image: "/assets/images/gen/blog/blog-17.webp"
 ---
 
