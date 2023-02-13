@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update #1"
+title: "Update #1: February 6, 2023"
 date: 2023-01-16
 authors: ["Alekhya Maram"]
 categories: ["Design", "Personas"]
