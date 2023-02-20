@@ -6,7 +6,7 @@ authors: ["Alekhya Maram"]
 categories: ["Design", "Personas"]
 description: "In this post I talk about settling into my role at Sounding Board, as well as my research on the role of personas in the design process."
 thumbnail: "assets/images/gen/blog/update1 (1).jpg"
-image: "assets/images/gen/blog/update1 (1).jpg"
+image: 
 ---
 
 ## Project Update

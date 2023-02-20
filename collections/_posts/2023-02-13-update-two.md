@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Update #2: February 13, 2023"
-date: 2023-01-31
+date: 2023-01-17
 authors: ["Alekhya Maram"]
-categories: ["Design", "Contextual Inquiry"]
+categories: ["Contextual Inquiry"]
 description: "In this post I talk about creating some proto-personas for my project and preparing for our upcoming contextual inquiry interviews."
 thumbnail: "assets/images/gen/blog/update2.jpg"
-image: "/assets/images/gen/blog/blog-17.webp"
+image: 
 ---
 
 ## Project Update

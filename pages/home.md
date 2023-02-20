@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Hello I'm <a href='/contact'>Alekhya</a>, and I'm experimenting with GitHub!</strong>"
-description: "I'm a sophomore at Barnard College studying Human Computer Interaction 🔨✨"
+title: "<a href='/contact'>Alekhya Maram</a></strong>"
+description: "Welcom to my project website! I'm a sophomore at Barnard College studying Human Computer Interaction 🔨✨"
 image: "/assets/images/homepage.png"
 
 meta_description: "Jekyll Origin is a premium Jekyll blog theme"
