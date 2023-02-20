@@ -2,10 +2,10 @@
 layout: home
 permalink: "/"
 title: "<a href='/contact'>Alekhya Maram</a></strong>"
-description: "Welcom to my project website! I'm a sophomore at Barnard College studying Human Computer Interaction 🔨✨"
+description: "I'm a sophomore at Barnard College studying Human Computer Interaction. Welcome to my project website! 🔨✨"
 image: "/assets/images/homepage.png"
 
-meta_description: "Jekyll Origin is a premium Jekyll blog theme"
+meta_description: "Jekyll Origin"
 meta_title: Jekyll Origin
 
 posts:
