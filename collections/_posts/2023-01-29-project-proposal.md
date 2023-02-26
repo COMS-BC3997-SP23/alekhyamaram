@@ -3,7 +3,7 @@ layout: post
 title: "Project Proposal"
 date: 2023-01-15T09:49:03Z
 authors: ["Alekhya Maram"]
-categories: ["Product Design"]
+categories: ["Project Proposal"]
 description: Here is my project proposal for COMS-BC3997. For privacy reasons, I cannot publicly post the full project proposal, so I've included an abridged version. 
 thumbnail: "assets/images/gen/blog/projproposal.jpg"
 image: "/assets/images/gen/blog/blog-18.webp"

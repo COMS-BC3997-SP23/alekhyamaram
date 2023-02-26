@@ -3,7 +3,7 @@ layout: post
 title: "Update #1: February 6, 2023"
 date: 2023-01-16
 authors: ["Alekhya Maram"]
-categories: ["Design", "Personas"]
+categories: ["Personas"]
 description: "In this post I talk about settling into my role at Sounding Board, as well as my research on the role of personas in the design process."
 thumbnail: "assets/images/gen/blog/update1 (1).jpg"
 image: 
