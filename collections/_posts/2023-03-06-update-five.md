@@ -5,7 +5,7 @@ date: 2023-01-23
 authors: ["Alekhya Maram"]
 categories: ["Empathy Mapping", "Personas", "Affinity Mapping"]
 description: "This week I continued to analyze the interview data from the manager journey project. I also completed readings on value-sensitive design."
-thumbnail: "/assets/images/gen/blog/update5"
+thumbnail: "/assets/images/gen/blog/update5.png"
 image: 
 ---
 
