@@ -1,0 +1,81 @@
+I"�<h2 id="project-update">Project Update</h2>
+
+<p>This week, we continued to analyze the data from interviews, and are starting to set up interviews with external participants. This will really strengthen the validity of the data we have and will allow us to dive into some of the questions we identified after the first round of interviews. I also finalized the Direct Report persona card that I’ve been working on, and got feedback from both Juan (UX Researcher) and Janie (Head of Product and Design). I just need to make a few more edits, and then it should be done!</p>
+
+<p>We also worked with a PM to get the ball rolling on usability testing for the beta rollout of one of the platform’s new features! Very exciting!!</p>
+
+<h2 id="readings">Readings</h2>
+
+<h3 id="managers-motivation--employee-productivity">Managers, Motivation, &amp; Employee Productivity</h3>
+
+<p>A systematic literature review found that manager behavior and leadership style are tied to employee stress/burnout levels, job satisfaction, and affective well-being (Skakon et al., 2010), indicating that the manager-direct report relationship is an important factor in determining a direct report’s experience at work.</p>
+
+<p>Additionally, previous research suggests that managers play a key role in motivating and supporting direct reports at work. They are crucial in ensuring that there is alignment between the work/goals that a direct report is pursuing, and the company vision. Ideally, a direct report’s work should not only be important to the organization, but also personally fulfilling/enriching (Buchbinder &amp; Shanks, 2016).</p>
+
+<p>Google’s Project Oxygen—a multi-year study that aimed to investigate (a) whether managers were even necessary, and (b) the characteristics of an effective manager, found that managers were in fact vital to a team’s success. They identified several characteristics shared by the company’s most effective managers, including:</p>
+<ul>
+  <li>being a productive coach to direct reports</li>
+  <li>supporting DR’s autonomy &amp; expediting their work, rather than micromanaging</li>
+  <li>supporting direct reports in their career development and longer-term aspirations 
+fostering an inclusive/supportive culture that prioritizes psychological safety (Harrell &amp; Barbato, 2018)</li>
+</ul>
+
+<p>Research conducted by Sirota Survey Intelligence and Gallup supports these findings (Beck &amp; Harter, 2014; Sirota et al., 2006), with Gallup’s research also indicating that the best managers emphasize accountability and cultivate open, transparent, and trusting relationships with direct reports (Beck &amp; Harter, 2014).  Furthermore, McKinsey found that non-financial incentives such a praise/positive feedback from managers, attention from managers (e.g. 1:1 meetings), and being given leadership opportunities (such as spearheading/owning a project) were often more effective in motivating employees than monetary rewards or incentives (Dewhurst et al., 2009).</p>
+
+<h2 id="sources">Sources</h2>
+
+<p>Beck, R., &amp; Harter, J. (2014, March 25). Why Great Managers Are So Rare. Gallup.Com. https://www.gallup.com/workplace/231593/why-great-managers-rare.aspx</p>
+
+<p>Dewhurst, M., Guthridge, M., &amp; Mohr, E. (2009, November 1). Motivating people: Getting beyond money. https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/motivating-people-getting-beyond-money</p>
+
+<p>Great managers still matter: The evolution of Google’s Project Oxygen. https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/</p>
+
+<p>Re:Work—Guide: Coach managers to coach. (n.d.). Retrieved March 20, 2023, from https://rework.withgoogle.com/guides/managers-coach-managers-to-coach/steps/introduction/</p>
+
+<p>Shanks, Nancy. Management and Motivation. (2016). In S.B. Buchbinder &amp; N. Shanks (Eds.), <em>Introduction to Health Care Management</em> (pp. 23-35). Jones &amp; Bartlett Learning. https://samples.jblearning.com/076373473x/3473x_ch02_4759.pdf</p>
+
+<p>Sirota, D., Mischkind, L. A., &amp; Meltzer, M. I. (2006, April 10). Why Your Employees Are Losing Motivation. HBS Working Knowledge. http://hbswk.hbs.edu/archive/5289.htmlwhy-your-employees-are-losing-motivation</p>
+
+<p>Skakon, J., Nielsen, K., Borg, V., &amp; Guzman, J. (2010). Are leaders’ well-being behaviours and style associated with the affective well-being of employees? A systematic review of three decades of research. Work and Stress - WORK STRESS, 24, 107–139. https://doi.org/10.1080/02678373.2010.495262</p>
+
+<h2 id="project-overview">Project Overview</h2>
+
+<p><strong>Project Purpose:</strong> I’m doing a User Experience Research internship with Sounding Board, a startup focused on delivering scalable coaching services and custom leadership development software to clients.</p>
+
+<p>The coaching process involves 3 key players:</p>
+
+<ul>
+  <li>Coachee/Direct Report (person receiving coaching)</li>
+  <li>Coach (person providing coaching)</li>
+  <li>Coachee’s Manager (person overseeing coachee)</li>
+</ul>
+
+<p>All of this happens &amp; is tracked on the company’s leader development platform.</p>
+
+<p>We’re working on a project to improve the manager UX. As it stands, there isn’t much of a “manager UX” to speak of; they’re asked to fill out surveys periodically to assess a coachee’s skills/growth, and have the ability to comment on the leadership goals a coachee sets, but managers <em>get nothing</em> out of the experience.</p>
+
+<p>This research project is focused on identifying:</p>
+
+<ol>
+  <li>Whether or not manager involvement in a coaching engagement is a good thing</li>
+  <li>If it is a good thing, we also want to know:
+    <ul>
+      <li>ways in which the platform can provide <strong>value</strong> to managers</li>
+      <li>ways in which the platform can <strong>engage</strong> managers so that they can better support their direct report’s in their coaching journey</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="project-progress">Project Progress</h2>
+
+<p>So far we have:</p>
+
+<ul>
+  <li>conducted 8 interviews with internal stakeholders (4 managers, 4 direct reports)</li>
+  <li>used empathy mapping to analyze each interview</li>
+  <li>used affinity diagrams to identify patterns across interviews</li>
+  <li>created a persona card for the direct report based on our interview data</li>
+</ul>
+
+<p>Unfortunately, I can’t share too much about the actual data/results we’ve been getting for participant confidentiality and company privacy reasons, but we’re making really good progress and are currently setting up interviews with external clients!</p>
+:ET
