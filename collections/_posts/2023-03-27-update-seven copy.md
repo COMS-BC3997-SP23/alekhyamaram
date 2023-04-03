@@ -4,7 +4,7 @@ title: "Update #7: March 27, 2023"
 date: 2023-01-26
 authors: ["Alekhya Maram"]
 categories: ["Outreach", "Stakeholder Alignment"]
-description: "This week I continued to analyze the interview data from the manager journey project. I also completed readings on value-sensitive design."
+description: "This week we worked on stakeholder alignment and setting up usability testing."
 thumbnail: "/assets/images/gen/blog/update7.jpg"
 image: 
 ---
